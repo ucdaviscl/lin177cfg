@@ -6,8 +6,7 @@ setup(
 
     url='https://github.com/ucdaviscl/lin177cfg',
     author='Kenji Sagae',
-
-    py_modules=['cfg'],
-    install_requires=['nltk'],
+    
     install_requires=['pcfg'],
+    py_modules=['cfg'],
 )
