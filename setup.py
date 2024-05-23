@@ -8,4 +8,6 @@ setup(
     author='Kenji Sagae',
 
     py_modules=['cfg'],
+    install_requires=['nltk'],
+    install_requires=['pcfg'],
 )
